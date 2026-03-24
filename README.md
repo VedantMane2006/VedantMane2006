@@ -55,10 +55,10 @@ Git, GitHub, VS Code, Vercel
 
 ---
 
-### 🔹 EchoLearn (Frontend MVP)
-
-* UI for an adaptive AI-powered learning platform
-* Focus on clean UX and scalable component design
+### 🔹 StockMaster — Inventory Management System
+- Full-stack inventory system with real-time tracking and multi-warehouse support  
+- Implemented stock movements, transfers, and audit trails  
+- Designed MySQL database with backend APIs for efficient data handling  
 
 ---
 
